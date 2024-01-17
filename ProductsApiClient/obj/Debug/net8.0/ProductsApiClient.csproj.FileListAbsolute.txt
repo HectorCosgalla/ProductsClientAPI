@@ -1,0 +1,14 @@
+C:\Users\Hector Cosgalla\Documents\GitHub\ProductsApi\ProductsApiClient\bin\Debug\net8.0\ProductsApiClient.exe
+C:\Users\Hector Cosgalla\Documents\GitHub\ProductsApi\ProductsApiClient\bin\Debug\net8.0\ProductsApiClient.deps.json
+C:\Users\Hector Cosgalla\Documents\GitHub\ProductsApi\ProductsApiClient\bin\Debug\net8.0\ProductsApiClient.runtimeconfig.json
+C:\Users\Hector Cosgalla\Documents\GitHub\ProductsApi\ProductsApiClient\bin\Debug\net8.0\ProductsApiClient.dll
+C:\Users\Hector Cosgalla\Documents\GitHub\ProductsApi\ProductsApiClient\bin\Debug\net8.0\ProductsApiClient.pdb
+C:\Users\Hector Cosgalla\Documents\GitHub\ProductsApi\ProductsApiClient\obj\Debug\net8.0\ProductsApiClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hector Cosgalla\Documents\GitHub\ProductsApi\ProductsApiClient\obj\Debug\net8.0\ProductsApiClient.AssemblyInfoInputs.cache
+C:\Users\Hector Cosgalla\Documents\GitHub\ProductsApi\ProductsApiClient\obj\Debug\net8.0\ProductsApiClient.AssemblyInfo.cs
+C:\Users\Hector Cosgalla\Documents\GitHub\ProductsApi\ProductsApiClient\obj\Debug\net8.0\ProductsApiClient.csproj.CoreCompileInputs.cache
+C:\Users\Hector Cosgalla\Documents\GitHub\ProductsApi\ProductsApiClient\obj\Debug\net8.0\ProductsApiClient.dll
+C:\Users\Hector Cosgalla\Documents\GitHub\ProductsApi\ProductsApiClient\obj\Debug\net8.0\refint\ProductsApiClient.dll
+C:\Users\Hector Cosgalla\Documents\GitHub\ProductsApi\ProductsApiClient\obj\Debug\net8.0\ProductsApiClient.pdb
+C:\Users\Hector Cosgalla\Documents\GitHub\ProductsApi\ProductsApiClient\obj\Debug\net8.0\ProductsApiClient.genruntimeconfig.cache
+C:\Users\Hector Cosgalla\Documents\GitHub\ProductsApi\ProductsApiClient\obj\Debug\net8.0\ref\ProductsApiClient.dll
